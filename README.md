@@ -1,6 +1,6 @@
 # Griezitis_UnityUi
 - [x] Projekta iesākšana
-- [ ] Pievienot vārdu un vecumu
+- [x] Pievienot vārdu un vecumu
 - [ ] Pievienot 2 cilvēkus
 - [ ] Apģērbu kategorijas
 - [ ] Skaņas efekti
